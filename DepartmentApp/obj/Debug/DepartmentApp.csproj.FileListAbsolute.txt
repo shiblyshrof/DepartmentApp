@@ -1,0 +1,9 @@
+c:\users\shibly\documents\visual studio 2013\Projects\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe.config
+c:\users\shibly\documents\visual studio 2013\Projects\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.csprojResolveAssemblyReference.cache
+c:\users\shibly\documents\visual studio 2013\Projects\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.DepartmentUI.resources
+c:\users\shibly\documents\visual studio 2013\Projects\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.Properties.Resources.resources
+c:\users\shibly\documents\visual studio 2013\Projects\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.csproj.GenerateResource.Cache
+c:\users\shibly\documents\visual studio 2013\Projects\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe
+c:\users\shibly\documents\visual studio 2013\Projects\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.pdb
+c:\users\shibly\documents\visual studio 2013\Projects\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.exe
+c:\users\shibly\documents\visual studio 2013\Projects\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.pdb
